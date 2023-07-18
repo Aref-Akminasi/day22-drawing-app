@@ -10,6 +10,7 @@ Users should be able to:
 
 - Change the color.
 - Change the size of the brush.
+- Clear the canvas.
 
 ### Screenshots
 
